@@ -2,9 +2,9 @@
 
 [![Bootstrap Freebies](/readme-images/github-bootstrap-freebies.png)](https://github.com/topics/bootstrap-freebies/) 
 
-**Blue header snippet** made with Bootstrap 4. Features a beautiful background gradient, fully responsive navbar menu, large intro text, and a phone mockup for showcasing your product. Comes with [Font Awesome](https://fontawesome.com/) icons and a typeface from Google Fonts. [See a live demo here &raquo;](https://epicbootstrap.com/snippets/header-blue)
+**Blue header snippet** made with Bootstrap 4. Features a beautiful background gradient, fully responsive navbar menu, large intro text, and a phone mockup for showcasing your product. Comes with [Font Awesome](https://fontawesome.com/) icons and a typeface from Google Fonts. [Get it in Bootstrap Studio &raquo;](https://bootstrapstudio.io)
 
-[![Blue Header](/readme-images/screenshot.png)](https://epicbootstrap.com/snippets/header-blue) 
+[![Blue Header](/readme-images/screenshot.png)](https://bootstrapstudio.io) 
 
 ## Features
 
